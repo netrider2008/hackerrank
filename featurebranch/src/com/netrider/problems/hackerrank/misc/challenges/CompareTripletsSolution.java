@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * compareTriplets https://www.hackerrank.com/challenges/compare-the-triplets
  * 
- * @author Mr Gaurav Rajapurkar
+ * @author netrider2008
  *
  */
 public class CompareTripletsSolution {
