@@ -1,13 +1,13 @@
 /**
  * https://www.hackerrank.com/challenges/solve-me-first/problem
  */
-package com.netrider.problems.hackerrank.misc.solvemefirst;
+package com.netrider.problems.hackerrank.misc.challenges;
 
 
 import java.util.Scanner;
 
 
-public class Solution {
+public class SolveMeFirstSolution {
 
 
     static int solveMeFirst(int a, int b) {
