@@ -5,6 +5,10 @@ package com.netrider.problems.hackerrank.misc.challenges;
 
 import java.util.Scanner;
 
+/**
+ * @author netrider2008
+ *
+ */
 public class SolveMeFirstSolution {
 
 	static int solveMeFirst(int a, int b) {

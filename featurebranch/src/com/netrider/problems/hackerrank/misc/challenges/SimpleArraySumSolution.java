@@ -1,7 +1,7 @@
 package com.netrider.problems.hackerrank.misc.challenges;
 /**
  * https://www.hackerrank.com/challenges/simple-array-sum
- * @author Mr Gaurav Rajapurkar
+ * @author netrider2008
  *
  */
 
